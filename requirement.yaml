@@ -1,0 +1,7 @@
+name: cs_assign1
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
